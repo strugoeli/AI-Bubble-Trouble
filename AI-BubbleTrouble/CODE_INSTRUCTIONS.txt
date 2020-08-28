@@ -1,0 +1,13 @@
+.py files
+
+In order to run the program :
+1. Open CODE in Pycharm and Mark as Directory all folders and subfolders
+2. Run running_script.py, it will download the prerequisites and start a program which interacts with the user and run the agent of their choice.
+
+This program allows to run both of the approaches agent, it also allows to train double deep-q learning approach (not recommended without gpu). 
+
+_____________
+
+.ipynb files
+
+We have prepared a detailed notebook with all the information,resources and code to train the double deep q-learning approaches in google colab for example.Please notice AI_Project_Bubble_Trouble.ipynb.
